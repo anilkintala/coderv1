@@ -16,7 +16,7 @@ workspace:
       disk:
         value: 128
       gpu-count:
-        value: 1
+        value: 0
       labels:
         value:
           com.coder.custom.hello: "hello"
